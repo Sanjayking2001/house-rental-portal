@@ -1,2 +1,0 @@
-# house-rental-portal
-github
